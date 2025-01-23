@@ -2,7 +2,7 @@ Hi there, I'm Drishti! 👩‍💻✨
 
 About Me
 
-I'm a transwoman and an aspiring developer from India, currently working as an HR Recruiter at PeriFerry. I am passionate about:
+I'm a transwoman and an aspiring developer from India, currently working as an HR and Technical Intern at PeriFerry. I am passionate about:
 
 Front-end Development: Previously worked as a freelancer.
 
@@ -44,7 +44,7 @@ Feel free to reach out or collaborate with me!
 
 📩 Email: gautamdrishti27@gmail.com
 
-💼 LinkedIn: https://linkedin.com/in/drishtigautam
+💼 LinkedIn: https://www.linkedin.com/in/drishti-gautam-10b9a72b4
 <!---
 Drishti006/Drishti006 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
